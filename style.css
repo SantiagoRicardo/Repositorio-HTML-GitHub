@@ -1,0 +1,11 @@
+h1 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background: #74b9ff;
+    text-align: center;
+    display: block;
+    border: 2px solid black;
+}
